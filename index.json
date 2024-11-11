@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Docs",
+        "src": "https://atul22g-notesapi.pages.dev/json/docs.json"
+    },
+    {
+        "name": "Blogs",
+        "src": "https://atul22g-notesapi.pages.dev/json/blogs.json"
+    }
+]
