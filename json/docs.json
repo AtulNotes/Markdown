@@ -1,0 +1,52 @@
+[
+    {
+        "Title": "CSS",
+        "slug": "css",
+        "slugs": [
+            {
+                "Title": "Good and Bad of CSS",
+                "slug": "good-and-bad-of-css"
+            }
+        ]
+    },
+    {
+        "Title": "JavaScript",
+        "slug": "javascript",
+        "slugs": [
+            {
+                "Title": "Good and Bad of JavaScript",
+                "slug": "good-and-bad-of-javascript"
+            },
+            {
+                "Title": "Css in JavaScript",
+                "slug": "css-in-javascript"
+            },
+            {
+                "Title": "React",
+                "slug": "react"
+            }
+        ]
+    },
+    {
+        "Title": "Django",
+        "slug": "django",
+        "slugs": [
+            {
+                "Title": "Getting Started with Django",
+                "slug": "getting-started-with-django"
+            },
+            {
+                "Title": "Jinja Templates App in Django",
+                "slug": "jinja-templates-app-in-django"
+            },
+            {
+                "Title": "A Guide on Django Models",
+                "slug": "a-guide-on-django-models"
+            },
+            {
+                "Title": "Deploy a Django App",
+                "slug": "deploy-a-django-app"
+            }
+        ]
+    }
+]
